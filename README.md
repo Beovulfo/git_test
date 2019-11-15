@@ -1,1 +1,2 @@
-my name is not important, specially on Friday
+my name is not important, specially on Friday.
+However, today is Friday...
